@@ -6,7 +6,7 @@ export const Header = (): JSX.Element => (
     <header className={styles.header_container}>
         <div className={styles.header_block}>
             <img src={logo} alt="logo"/>
-            <h1 className={styles.header_title}>WEATHER 2.0</h1>
+            <h1 className={styles.header_title}>WEATHER 3.0</h1>
         </div>
     </header>
 )
